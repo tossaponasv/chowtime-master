@@ -1,0 +1,78 @@
+header{
+    background: #000 url(../img/header2.jpg) no-repeat 0px -400px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: 50px;
+}
+
+.boxedcontainer		{	max-width: 1170px; margin:auto; padding:0px 30px;}
+
+/*********************************************
+	-	SETTINGS FOR BANNER CONTAINERS	-
+**********************************************/
+
+.tp-banner-container{
+	width:100%;
+	position:relative;
+	padding:0;
+
+}
+
+.tp-banner{
+	width:100%;
+	position:relative;
+}
+
+.tp-banner-fullscreen-container {
+		width:100%;
+		position:relative;
+		padding:0;
+}
+
+
+
+
+
+
+
+.profilepic {
+    padding-left: 20px
+}
+
+
+
+
+
+
+
+#content {
+    margin-top: 40px;
+}
+
+#mainNav {
+    padding: 0 15px 0 15px;
+}
+
+
+
+.name {
+    text-align: center;
+}
+
+.pinkbtn {
+    background-color: indianred;
+}
+
+.btn-primary {
+    background-color: #EF788C;
+}
+
+.comment {
+    margin-left: 20px;
+}
+
+.break {
+    padding: 20px 0;
+}

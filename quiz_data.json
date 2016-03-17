@@ -1,0 +1,54 @@
+[
+    {
+        "question" : "When was Chulalonkorn University established?",
+        "answers" : [
+            {"id" : 0, "text" : "1916" },
+            {"id" : 1, "text" : "1917" },
+            {"id" : 2, "text" : "1918" },
+            {"id" : 3, "text" : "1919" }
+        ],
+        "correct" : 1
+    },
+    {
+		"question" : "Which image shows a close-up of Toto?",
+		"answers"  : [
+			{"id"  : 0, "image" : "img/quiz/toto_close_up_02.jpg" },
+			{"id"  : 1, "image" : "img/quiz/toto_close_up_04.jpg" },
+			{"id"  : 2, "image" : "img/quiz/toto_close_up_01.jpg" },
+			{"id"  : 3, "image" : "img/quiz/toto_close_up_03.jpg" },
+            {"id"  : 4, "text"  : "All of the above" }
+		],
+		"correct"  : 4
+	},
+	{
+		"question" : "Who is EGluay?",
+        "answers" : [
+            {"id" : 0, "text" : "Mena" },
+            {"id" : 1, "text" : "Manie" },
+            {"id" : 2, "text" : "EJAY" },
+            {"id" : 3, "text" : "EGluay" }
+        ],
+        "correct" : 3
+	},
+	{
+		"question" : "1+1 = ?",
+		"answers"  : [
+			{"id"  : 0, "text" : "1"},
+			{"id"  : 1, "text" : "2"},
+			{"id"  : 2, "text" : "3"},
+			{"id"  : 3, "text" : "11"},
+			{"id"  : 4, "text" : "?"},
+			{"id"  : 5, "text" : "Window"}
+		],
+		"correct"  : 2,
+		"feedback" : "No idea"
+	},
+	{
+		"question" : "Hello, it's me",
+		"answers"  : [
+			{"id"  : 0, "text" : "True"},
+			{"id"  : 1, "text" : "False"}
+		],
+		"correct"  : 0
+	}
+]
